@@ -1,0 +1,42 @@
+ul{
+    list-style-type: none;
+    background-color: #8c48ff;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 15px;
+    display: block;
+    color: white;
+    font-family: "DejaVu Sans Mono";
+    font-size: 20px;
+}li a:hover{
+    background-color: red;
+ }
+ .fruits{
+     background-color: #de1313;
+     border: 2px dotted red;
+     margin: 20px;
+     padding: 20px;
+     text-align: center;
+     font-family: "DejaVu Sans Mono";
+ }
+ #gari{
+      background-color: #bb16c7;
+     border: 2px solid red;
+     margin: 20px;
+     padding: 20px;
+     text-align: center;
+     font-family: "DejaVu Sans Mono";
+
+ }
+ #matunda{
+      background-color: #2fcb0c;
+     border: 2px dotted red;
+     margin: 20px;
+     padding: 20px;
+     text-align: center;
+     font-family: "DejaVu Sans Mono";
+ }
